@@ -209,7 +209,7 @@ _转到 [文档](https://example.com) 查看更多示例_
 
 
 
-#### 所属团队：WingBy网络安全 (https://www.wingby.cn/)
+#### 所属团队：WingBy网络安全团队 (https://www.wingby.cn/)
 
 
 <p align="right">(<a href="#top">返回顶部</a>)</p>
