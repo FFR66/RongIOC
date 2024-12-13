@@ -16,13 +16,13 @@
   **中文** | [English](./README.en.md)
     <br />
     <br />
-    <a href="https://www.wingby.cn/)">团队官网</a>
+    <a href="https://www.wingby.cn/">团队官网</a>
     ·
     <a href="https://github.com/WingBy-Fkalis/RongIOC/issues">反馈 Bug</a>
     ·
     <a href="https://github.com/WingBy-Fkalis/RongIOC/issues">请求新功能</a>
     ·
-    <a href="https://github.com/WingBy-Fkalis/RongIOC/issues">联系作者</a>
+    <a href="#联系作者">联系作者</a>
   </p>
 </div>
 
