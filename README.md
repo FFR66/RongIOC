@@ -221,7 +221,7 @@ _转到 [文档](https://example.com) 查看更多示例_
 
 在这里列出你觉得有用的资源，并以此致谢。我已经添加了一些我喜欢的资源，以便你可以快速开始！
 
-* [FOFA资产拓线实战系列：响尾蛇APT组织](https://mp.weixin.qq.com/s/r8VLB4aWTFScGXwyOjTpVQ))
+* [FOFA资产拓线实战系列：响尾蛇APT组织](https://mp.weixin.qq.com/s/r8VLB4aWTFScGXwyOjTpVQ)
 
 <p align="right">(<a href="#top">返回顶部</a>)</p>
 
