@@ -59,7 +59,7 @@
 
 - **一款用于APT威胁情报收集(APT网络资产拓线构建)的自动化工具**
 - **Rong系列工具之一(RongScan,RongFofa,RongHack等工具暂不开源,团队内部使用,有需要联系作者审核)**
-- **项目地址: [https://github.com/FFR66/RongIOC](https://github.com/WingBy-Fkalis/RongIOC)**
+- **项目地址: [https://github.com/WingBy-Fkalis/RongIOC](https://github.com/WingBy-Fkalis/RongIOC)**
 - **项目所属团队: WingBY网络安全团队**
 - **第一作者: Fkalis**
   
