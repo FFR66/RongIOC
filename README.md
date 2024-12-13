@@ -47,7 +47,7 @@
     <li><a href="#TODO">TODO</a></li>
     <li><a href="#贡献">贡献</a></li>
     <li><a href="#许可证">许可证</a></li>
-    <li><a href="#联系我们">联系我们</a></li>
+    <li><a href="#联系作者">联系作者</a></li>
     <li><a href="#致谢">致谢</a></li>
   </ol>
 </details>
@@ -56,40 +56,29 @@
 
 <!-- 关于本项目 -->
 ## 关于本项目
+
+- **一款用于APT威胁情报收集(APT网络资产拓线构建)的自动化工具**
+- **Rong系列工具之一(RongScan,RongFofa,RongHack等工具暂不开源,团队内部使用,有需要联系作者审核)**
+- **项目地址: [https://github.com/FFR66/RongIOC](https://github.com/WingBy-Fkalis/RongIOC)**
+- **项目所属团队: WingBY网络安全团队**
+- **第一作者: Fkalis**
+  
 ![image](https://github.com/user-attachments/assets/650b3c6d-379f-4fa8-9c59-526d279bacf8)
 
 在遇到各种APT攻击的时候，我们不仅需要进行防御当前的攻击，也需要基于当前的样本,指纹,等信息去构建更多的指纹，也就是所说的拓线，在进行了大量开源IOC的尝试其基本流程是固定的
-尝试将其进行自动化，减少
+尝试将其进行自动化，减少工作量，提升效率
 
-- **一款用于APT威胁情报收集(APT网络资产拓线构建)的自动化工具**
-- **Rong系列工具之一(RongScan,RongFofa,RongHack等工具暂不开源,有需要联系作者)**
-- **项目地址: https://github.com/FFR66/RongIOC**
+基本流程参考下图（在给某公司进行APT培训的时候的课件）
+</br>
+![image](https://github.com/user-attachments/assets/7fcbdeaf-6b71-4031-9a9a-8220c6080d8b)
 
-以下是原因：
-* 你应该把时间用在项目的「刀刃」上，也就是专注于解决问题本身上
-* 你不应该一遍又一遍地做重复的工作，比如每次都从头编写一个 README
-* 你应该在未来的生活中始终遵循 DRY 原则 :smile:
-
-当然，没有一个模板可以满足所有项目，因为你的需求可能与众不同。所以我们会在未来添加更多内容。你也可以通过复刻（fork）本仓库并且创建一个拉取请求（pull request）或者创建议题（issue）来向我们提出建议。感谢所有帮助我们扩充本模板的贡献者！
-
-使用 `BLANK_README_zh.md` 来开始。
 
 <p align="right">(<a href="#top">返回顶部</a>)</p>
 
 
 
 ### 构建工具
-
-你应该在这里列出项目使用的主要框架或库。附加组件和插件则应该放在致谢一节中。下面是一些例子。
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+直接使用打包好的exe即可
 
 <p align="right">(<a href="#top">返回顶部</a>)</p>
 
@@ -103,28 +92,26 @@
 
 ### 依赖
 
-这只是一个列出软件依赖和安装方法的例子。
-* npm
+* exe
   ```sh
-  npm install npm@latest -g
+  直接使用打包好的exe即可
   ```
 
 ### 安装
 
 _下面是一个指导你的受众如何安装和配置你的应用的例子。这个模板不需要任何外部依赖或服务。_
 
-1. 在 [https://example.com](https://example.com) 获取一个免费的 API Key。
-2. 克隆本仓库
+1. 克隆本仓库
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/WingBy-Fkalis/RongIOC.git
    ```
-3. 安装 NPM 包
+2. 来到RongIOC目录
    ```sh
-   npm install
+   cd RongIOC
    ```
-4. 在 `config.js` 中填写你的 API
+3. 运行RongIOC.exe
    ```js
-   const API_KEY = '填写你的 API';
+   RongIOC.exe -h
    ```
 
 <p align="right">(<a href="#top">返回顶部</a>)</p>
@@ -133,8 +120,6 @@ _下面是一个指导你的受众如何安装和配置你的应用的例子。�
 
 <!-- 使用方法 示例 -->
 ## 使用方法
-
-在这里你可以展示项目的使用方法。把附加的截图、代码示例和演示放在这里也很不错。你也可以用链接引用其他资源。
 
 _转到 [文档](https://example.com) 查看更多示例_
 
@@ -145,13 +130,35 @@ _转到 [文档](https://example.com) 查看更多示例_
 <!-- 路线图 -->
 ## TODO
 
-- [x] 添加更新日志
-- [x] 添加「返回顶部」链接
-- [ ] 添加额外的模板和示例
-- [ ] 添加「组件」文档，以便更容易复制和粘贴各个部分
-- [ ] 多语种支持
-    - [x] 中文
-    - [ ] 西班牙语
+- [x] 支持FOFA网络空间测绘
+- [x] 优化过滤筛选,提高速度
+- [x] 使用并发协程,提高速度
+- [x] 支持空字段指纹
+- [ ] 配置文件设置
+- [ ] 进一步确认可疑目标
+    - [ ] 使用微步,qax等平台进行确认
+    - [ ] 自动进行基础IOC路径扫描
+    - [ ] body相似度比较
+    - [ ] 大模型验证
+- [ ] 支持大量的指纹方式:
+    - [x] ip
+    - [x] port
+    - [x] header
+    - [x] cert
+    - [x] asn
+    - [x] os
+    - [x] server
+    - [x] jarm
+    - [x] banner 
+    - [ ] body,ico (由于没有FOFA商业版,无法查询到其信息,暂时无法兼容,如果有机会有账户的话,会进行添加)
+    - [ ] ....
+- [ ] 更多的网络空间测绘引擎
+    - [x] FOFA
+    - [ ] QUAKE
+    - [ ] HUNTER
+    - [ ] ZOOMEYE
+    - [ ] ....
+- [ ] .......
 
 到 [open issues](https://github.com/othneildrew/Best-README-Template/issues) 页查看所有请求的功能 （以及已知的问题）。
 
@@ -172,6 +179,10 @@ _转到 [文档](https://example.com) 查看更多示例_
 4. 推送到该分支 (`git push origin feature/AmazingFeature`)
 5. 创建一个拉取请求（Pull Request）
 
+### 开源贡献者列表
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
+
 <p align="right">(<a href="#top">返回顶部</a>)</p>
 
 
@@ -186,12 +197,20 @@ _转到 [文档](https://example.com) 查看更多示例_
 
 
 
-<!-- 联系我们 -->
-## 联系我们
+<!-- 联系作者 -->
+## 联系作者
 
-你的名字 - [@your_twitter](https://twitter.com/your_username) - email@example.com
+#### 公众号：fkalis
+<img width="855" alt="1734073673283" src="https://github.com/user-attachments/assets/affaa351-bde5-4c82-815b-71b252568f17" />
 
-项目链接: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+#### 微信号: WingBy_fkalis（备注来意）
+![image](https://github.com/user-attachments/assets/00fdb3fb-2497-48de-ae59-5a3508526cb3)
+
+
+
+
+#### 所属团队：WingBy网络安全 (https://www.wingby.cn/)
+
 
 <p align="right">(<a href="#top">返回顶部</a>)</p>
 
@@ -215,18 +234,3 @@ _转到 [文档](https://example.com) 查看更多示例_
 
 
 
-<!-- MARKDOWN 链接 & 图片 -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/BreakingAwful/Best-README-Template-zh.svg?style=for-the-badge
-[contributors-url]: https://github.com/BreakingAwful/Best-README-Template-zh/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/BreakingAwful/Best-README-Template-zh.svg?style=for-the-badge
-[forks-url]: https://github.com/BreakingAwful/Best-README-Template-zh/network/members
-[stars-shield]: https://img.shields.io/github/stars/BreakingAwful/Best-README-Template-zh.svg?style=for-the-badge
-[stars-url]: https://github.com/BreakingAwful/Best-README-Template-zh/stargazers
-[issues-shield]: https://img.shields.io/github/issues/BreakingAwful/Best-README-Template-zh.svg?style=for-the-badge
-[issues-url]: https://github.com/BreakingAwful/Best-README-Template-zh/issues
-[license-shield]: https://img.shields.io/github/license/BreakingAwful/Best-README-Template-zh.svg?style=for-the-badge
-[license-url]: https://github.com/BreakingAwful/Best-README-Template-zh/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
