@@ -44,7 +44,7 @@
       </ul>
     </li>
     <li><a href="#使用方法">使用方法</a></li>
-    <li><a href="#路线图">路线图</a></li>
+    <li><a href="#路线图">TODO</a></li>
     <li><a href="#贡献">贡献</a></li>
     <li><a href="#许可证">许可证</a></li>
     <li><a href="#联系我们">联系我们</a></li>
@@ -56,10 +56,14 @@
 
 <!-- 关于本项目 -->
 ## 关于本项目
+![image](https://github.com/user-attachments/assets/650b3c6d-379f-4fa8-9c59-526d279bacf8)
 
-[![产品截图][product-screenshot]](https://example.com)
+在遇到各种APT攻击的时候，我们不仅需要进行防御当前的攻击，也需要基于当前的样本,指纹,等信息去构建更多的指纹，也就是所说的拓线，在进行了大量开源IOC的尝试其基本流程是固定的
+尝试将其进行自动化，减少
 
-GitHub 上有很多优秀的 README 模板，但我没找到一个适合我需求的，所以我创建了这个增强版。我想要创建一个 README 模板，它能优秀到成为你的最后一个 README 模板 —— 我认为这就是你所需要的。
+- **一款用于APT威胁情报收集(APT网络资产拓线构建)的自动化工具**
+- **Rong系列工具之一(RongScan,RongFofa,RongHack等工具暂不开源,有需要联系作者)**
+- **项目地址: https://github.com/FFR66/RongIOC**
 
 以下是原因：
 * 你应该把时间用在项目的「刀刃」上，也就是专注于解决问题本身上
@@ -139,7 +143,7 @@ _转到 [文档](https://example.com) 查看更多示例_
 
 
 <!-- 路线图 -->
-## 路线图
+## TODO
 
 - [x] 添加更新日志
 - [x] 添加「返回顶部」链接
