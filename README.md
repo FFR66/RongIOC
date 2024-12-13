@@ -221,14 +221,7 @@ _转到 [文档](https://example.com) 查看更多示例_
 
 在这里列出你觉得有用的资源，并以此致谢。我已经添加了一些我喜欢的资源，以便你可以快速开始！
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [FOFA资产拓线实战系列：响尾蛇APT组织](https://mp.weixin.qq.com/s/r8VLB4aWTFScGXwyOjTpVQ))
 
 <p align="right">(<a href="#top">返回顶部</a>)</p>
 
