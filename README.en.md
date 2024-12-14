@@ -11,7 +11,7 @@
   **Cyberspace Mapping APT Automated Line Extension Tool**
   <br />
   <p align="center">
-    <a href="https://github.com/WingBy-Fkalis/RongIOC/README.md"><strong>View Documentation »</strong></a>
+    <a href="./README.md"><strong>View Documentation »</strong></a>
     
   Chinese | [English](./README.en.md)
     <br />
