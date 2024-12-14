@@ -68,6 +68,7 @@ When encountering various APT attacks, we not only need to defend against the cu
 Refer to the following diagram for the basic process (from a training course given to a company).
 
 </br>
+
 ![image](https://github.com/user-attachments/assets/7fcbdeaf-6b71-4031-9a9a-8220c6080d8b) 
 
 
