@@ -121,7 +121,7 @@ _下面是一个指导你的受众如何安装和配置你的应用的例子。�
 <!-- 使用方法 示例 -->
 ## 使用方法
 
-_转到 [文档](https://example.com) 查看更多示例_
+_转到 [文档](https://fkalis.cn/RongIOC) 查看更多示例_
 
 <p align="right">(<a href="#top">返回顶部</a>)</p>
 
