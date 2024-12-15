@@ -140,6 +140,10 @@ _转到 [文档](https://example.com) 查看更多示例_
     - [ ] 自动进行基础IOC路径扫描
     - [ ] body相似度比较
     - [ ] 大模型验证
+- [x] 支持非空字段指纹
+- [ ] 支持或条件(例如:攻击目标经常在多个org中进行，即org:xxx || org:xxx)
+- [ ] 优化返回结果
+- [ ] 自动生成拓线报告
 - [ ] 支持大量的指纹方式:
     - [x] ip
     - [x] port
@@ -151,6 +155,10 @@ _转到 [文档](https://example.com) 查看更多示例_
     - [x] jarm
     - [x] banner 
     - [ ] body,ico (由于没有FOFA商业版,无法查询到其信息,暂时无法兼容,如果有机会有账户的话,会进行添加)
+    - [ ] body_hash
+    - [ ] header_hash
+    - [ ] js
+    - [ ] js_md5
     - [ ] ....
 - [ ] 更多的网络空间测绘引擎
     - [x] FOFA
@@ -222,6 +230,12 @@ _转到 [文档](https://example.com) 查看更多示例_
 在这里列出你觉得有用的资源，并以此致谢。我已经添加了一些我喜欢的资源，以便你可以快速开始！
 
 * [FOFA资产拓线实战系列：响尾蛇APT组织](https://mp.weixin.qq.com/s/r8VLB4aWTFScGXwyOjTpVQ)
+* [FOFA资产拓线实战系列：APT-C-23 Android端](https://mp.weixin.qq.com/s/ODv4d8PKoBAAaCF5Cn_GcA)(待实现)
+* [FOFA资产拓线实战系列：Ducktail犯罪组织](https://mp.weixin.qq.com/s/NrUbuSIjA8qwYMw9zVFscw)
+* [用FOFA进行一场APT Bitter追踪的实战](https://mp.weixin.qq.com/s/dhuh3xRCllR2uevNxT1r7Q)
+* [公开样本项目](https://github.com/stamparm/maltrail/blob/master/trails/static/malware)
+* [FOFA](https://fofa.info/)
+* [微步情报中心](https://x.threatbook.com/)
 
 <p align="right">(<a href="#top">返回顶部</a>)</p>
 
