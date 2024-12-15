@@ -210,7 +210,7 @@ Connection: keep-alive" && banner=", 23 ")
 os="" && icp="" && cert.subject.org="" && cname=""
    ```
 
-<img width="1280" alt="8d1be1711049c93b0e4f391e2757a8e" src="https://github.com/user-attachments/assets/c3d03e40-bdbe-429f-9049-69d19092a1f3&#34;  /> 
+<img width="1280" alt="8d1be1711049c93b0e4f391e2757a8e" src="https://github.com/user-attachments/assets/c3d03e40-bdbe-429f-9049-69d19092a1f3" />
 
 ![0a4987f484384188a7b8551452f198b](https://github.com/user-attachments/assets/11f78cda-1b36-4b1a-8da0-1ab1771bff5b) 
 
@@ -316,7 +316,7 @@ Distributed under the MIT License. See [LICENSE.txt](LICENSE.txt) for more infor
 ## Contact Author
 
 #### Public Account: fkalis
-<img width="1000" alt="1734073673283" src="https://github.com/user-attachments/assets/affaa351-bde5-4c82-815b-71b252568f17&#34; /> 
+<img width="1000" alt="1734073673283" src="https://github.com/user-attachments/assets/affaa351-bde5-4c82-815b-71b252568f17; /> 
 
 #### WeChat: WingBy_fkalis (Please note the purpose)
 ![image](https://github.com/user-attachments/assets/00fdb3fb-2497-48de-ae59-5a3508526cb3) 
@@ -329,7 +329,7 @@ Distributed under the MIT License. See [LICENSE.txt](LICENSE.txt) for more infor
 ## Discussion Group
 If the QR code is invalid, you can add the author to join the group
 </br>
-<img width="350" alt="1734272402262" src="https://github.com/user-attachments/assets/6819981a-8d8b-47be-ba84-c3afe98ec14e&#34;/>
+<img width="350" alt="1734272402262" src="https://github.com/user-attachments/assets/6819981a-8d8b-47be-ba84-c3afe98ec14e; />
 
 
 
@@ -346,7 +346,6 @@ List the resources you find helpful here, and give thanks. I have added some of 
 * [FOFA](https://fofa.info/) 
 * [ThreatBook Intelligence Center](https://x.threatbook.com/) 
 
-* 
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
