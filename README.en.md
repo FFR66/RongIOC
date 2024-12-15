@@ -316,7 +316,7 @@ Distributed under the MIT License. See [LICENSE.txt](LICENSE.txt) for more infor
 ## Contact Author
 
 #### Public Account: fkalis
-<img width="1000" alt="1734073673283" src="https://github.com/user-attachments/assets/affaa351-bde5-4c82-815b-71b252568f17; /> 
+<img width="1000" alt="1734073673283" src="https://github.com/user-attachments/assets/affaa351-bde5-4c82-815b-71b252568f17" /> 
 
 #### WeChat: WingBy_fkalis (Please note the purpose)
 ![image](https://github.com/user-attachments/assets/00fdb3fb-2497-48de-ae59-5a3508526cb3) 
@@ -329,7 +329,7 @@ Distributed under the MIT License. See [LICENSE.txt](LICENSE.txt) for more infor
 ## Discussion Group
 If the QR code is invalid, you can add the author to join the group
 </br>
-<img width="350" alt="1734272402262" src="https://github.com/user-attachments/assets/6819981a-8d8b-47be-ba84-c3afe98ec14e; />
+<img width="350" alt="1734272402262" src="https://github.com/user-attachments/assets/6819981a-8d8b-47be-ba84-c3afe98ec14e" />
 
 
 
