@@ -31,7 +31,7 @@
   <summary><strong>目录</strong></summary>
   <ol>
     <li>
-      <a href="#关于本项目">注意事项</a>
+      <a href="#注意事项">注意事项</a>
     </li>
     <li>
       <a href="#关于本项目">关于本项目</a>
