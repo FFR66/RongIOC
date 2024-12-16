@@ -228,7 +228,7 @@ os="" && icp="" && cert.subject.org="" && cname=""
 
 </br>
 
-_Proceed to [Documentation](https://fkalis.cn/RongIOC) for more examples_
+_Proceed to [Documentation](https://github.com/WingBy-Fkalis/RongIOC) for more examples_
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
