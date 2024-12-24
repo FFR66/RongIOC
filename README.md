@@ -352,7 +352,8 @@ _转到 [文档](https://github.com/WingBy-Fkalis/RongIOC) 查看更多示例_
 ## 项目交流群
 如果二维码失效可以添加作者加群
 </br>
-<img width="350" alt="1734272402262" src="https://github.com/user-attachments/assets/6819981a-8d8b-47be-ba84-c3afe98ec14e" />
+![b27a50bcf45bf9dd4aac74fb13df308](https://github.com/user-attachments/assets/9754e8df-1a42-4706-bcfc-0048034aed0e)
+
 
 
 
