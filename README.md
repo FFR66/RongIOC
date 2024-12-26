@@ -52,6 +52,7 @@
     <li><a href="#许可证">许可证</a></li>
     <li><a href="#联系作者">联系作者</a></li>
     <li><a href="#交流群">交流群</a></li>
+    <li><a href="#交流群">相关资料</a></li>
     <li><a href="#致谢">致谢</a></li>
   </ol>
 </details>
@@ -356,11 +357,8 @@ _转到 [文档](https://github.com/WingBy-Fkalis/RongIOC) 查看更多示例_
 
 
 
-
-<!-- 致谢 -->
-## 致谢
-
-在这里列出你觉得有用的资源，并以此致谢。我已经添加了一些我喜欢的资源，以便你可以快速开始！
+<!-- 相关资料 -->
+## 相关资料
 
 * [FOFA资产拓线实战系列：响尾蛇APT组织](https://mp.weixin.qq.com/s/r8VLB4aWTFScGXwyOjTpVQ)
 * [FOFA资产拓线实战系列：APT-C-23 Android端](https://mp.weixin.qq.com/s/ODv4d8PKoBAAaCF5Cn_GcA)(待实现)
@@ -370,7 +368,15 @@ _转到 [文档](https://github.com/WingBy-Fkalis/RongIOC) 查看更多示例_
 * [FOFA](https://fofa.info/)
 * [微步情报中心](https://x.threatbook.com/)
 
+
+## 致谢
+RongIOC 已加入 [FOFA 共创者计划](https://fofa.info/development)，感谢 FOFA 提供的账号支持。
+
+![fofa-logo](https://user-images.githubusercontent.com/40891670/209631625-f73811b0-a26a-4a42-8158-e5061464481d.png)
+
 <p align="right">(<a href="#top">返回顶部</a>)</p>
+
+
 
 
 
